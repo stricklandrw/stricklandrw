@@ -1,4 +1,6 @@
-## Hi there 👋
+I'm Russ, I work on backend network systems providing access and security for companies all over the world.
+
+I've been spending my time refreshing and learning new skills during my search for a new network security position.  I'm focused currently on Python and Go code refresh and learning while also adding AI skills to my repertoire.
 
 <!--
 **stricklandrw/stricklandrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
